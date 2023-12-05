@@ -1,0 +1,19 @@
+ html{
+scroll-behavior: smooth;
+background-color:darkolivegreen;
+font-family: cursive;
+text-align: center;
+}
+
+body{
+    scroll-behavior: smooth;
+    background-color: darkolivegreen;
+    font-family: cursive;
+    text-align: center;
+    
+    } 
+    
+    h1{
+        font-weight: bold;
+        color: black;
+    }
